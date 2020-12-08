@@ -24,7 +24,7 @@ const InputsWrapper = styled.div`
   display: flex;
   flex-direction: column;
 
-  margin: 15px 0px;
+  margin: 0px 0px 15px 0px;
 `
 
 type BarState = {

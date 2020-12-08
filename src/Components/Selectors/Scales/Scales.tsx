@@ -1,4 +1,4 @@
-import React, { Dispatch, SetStateAction } from 'react'
+import React from 'react'
 import styled from 'styled-components'
 import { Select } from 'semantic-ui-react'
 import { Scale } from "@tonaljs/tonal"
